@@ -4,8 +4,8 @@ import CartContext from "./store/CartContext";
 import { currencyFormatter } from "./utils/formatting";
 import UserProgressContext from "./store/UserProgressContext";
 import CartItems from "./CartItems";
-import Modal from "./ui/Modal";
-import Button from "./ui/Button";
+import Modal from "./ui-components/Modal";
+import Button from "./ui-components/Button";
 
 
 
