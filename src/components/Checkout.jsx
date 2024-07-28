@@ -1,10 +1,10 @@
 import { useContext } from "react";
 import CartContext from "./store/CartContext";
 import UserProgressContext from "./store/UserProgressContext";
-import Input from "./UI/Input";
-import Modal from "./UI/Modal";
+import Input from "./ui/Input.jsx";
+import Modal from "./ui/Modal.jsx";
 import { currencyFormatter } from "./utils/formatting";
-import Button from "./ui/Button";
+import Button from "./ui/Button.jsx";
 import BackEndContext from "./api/BackEndContext";
 import useHttp from "../hooks/useHttp.jsx";
 import Error from "./Error.jsx";
