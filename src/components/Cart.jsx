@@ -1,5 +1,4 @@
 import { useContext } from "react";
-
 import CartContext from "./store/CartContext";
 import { currencyFormatter } from "./utils/formatting";
 import UserProgressContext from "./store/UserProgressContext";
