@@ -16,7 +16,7 @@ function MealItem(props){
         <li className="meal-item">
             <article>
 
-                <img src={`${props.backEndUrl}/${meal.image}`} alt={meal.name} />
+                <img src={`${props.imageBackEndURL}/${meal.image}`} alt={meal.name} />
                 <div>
                     <h3>{meal.name}</h3>
                     <p className="meal-item-price">{currencyFormatter.format(meal.price) }</p>

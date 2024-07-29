@@ -7,7 +7,7 @@ import Error from "./Error.jsx";
 
 const requestConfig = {};
 function Meals() {
-  const {backEndURL} = useContext(BackEndContext);
+  const {backEndURL, imageBackEndURL} = useContext(BackEndContext);
 
   const {data , error, isLoading} = useHttp(`${backEndURL}/meals`, requestConfig, []);
 
@@ -29,7 +29,7 @@ function Meals() {
   return (
     <ul id="meals">
       {data.map((meal) => (
-         <MealItem key={meal.id} meal={meal} backEndUrl={backEndURL}/>
+         <MealItem key={meal.id} meal={meal} imageBackEndURL={imageBackEndURL}/>
       ))}
     </ul>
   );
