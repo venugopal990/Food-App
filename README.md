@@ -14,4 +14,9 @@ Our Food App, built with React for a smooth and dynamic user experience, offers 
 - **Place Your Order:** Confirm your order details and payment information, then tap “Place Order.” Our React-based app will provide an order confirmation along with an estimated delivery time or pickup instructions.
 
 
+## Output
+
+![alt text](https://github.com/venugopal990/Food-App/blob/master/Screenshot.png?raw=true)
+
+
 Enjoy a hassle-free dining experience with our Food App. From selecting your favorite dishes to placing an order, everything is designed to be quick and convenient. Happy eating!
