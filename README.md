@@ -16,7 +16,10 @@ Our Food App, built with React for a smooth and dynamic user experience, offers 
 
 ## Output
 
-![alt text](https://github.com/venugopal990/Food-App/blob/master/Screenshot.png?raw=true)
+![alt text](https://github.com/venugopal990/Food-App/blob/master/Food-App-Screenshot1.png?raw=true)
+![alt text](https://github.com/venugopal990/Food-App/blob/master/Food-App-Screenshot2.png?raw=true)
+![alt text](https://github.com/venugopal990/Food-App/blob/master/Food-App-Screenshot3.png?raw=true)
+![alt text](https://github.com/venugopal990/Food-App/blob/master/Food-App-Screenshot4.png?raw=true)
 
 
 Enjoy a hassle-free dining experience with our Food App. From selecting your favorite dishes to placing an order, everything is designed to be quick and convenient. Happy eating!
